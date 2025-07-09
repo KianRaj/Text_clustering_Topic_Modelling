@@ -1,5 +1,6 @@
 # Text Clustering and Topic Modeling using UMAP, HDBSCAN, and BERTopic
 
+
 ## Overview
 
 This project utilizes **text clustering** and **topic modeling** techniques to analyze a dataset of abstracts and titles. It groups similar documents into clusters and identifies the underlying topics within the dataset. The project uses various tools such as **Sentence-Transformers** for text embedding, **UMAP** for dimensionality reduction, **HDBSCAN** for clustering, and **BERTopic** for topic modeling.
@@ -24,6 +25,9 @@ The following libraries are required to run the code:
 You can install all dependencies using:
 
 pip install datasets sentence-transformers umap-learn hdbscan pandas numpy bertopic
+
+![Text_clustering](download.png)
+
 
 # Text Clustering and Topic Modeling using UMAP, HDBSCAN, and BERTopic
 
